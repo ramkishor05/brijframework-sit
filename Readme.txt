@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: eBusiness
-Theme URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme Name: Brijframework
+Theme URL: https://brijframework.com/
+Author: brijframework.com
+Author URL: https://brijframework.com
