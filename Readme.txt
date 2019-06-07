@@ -1,6 +1,7 @@
 Thanks for downloading this theme!
 
-Theme Name: Brijframework
-Theme URL: https://brijframework.com/
-Author: brijframework.com
-Author URL: https://brijframework.com
+Theme Name: brijframework
+
+Theme URL: https://www.brijframework.com/
+Author: BootstrapMade.com
+Author URL: www.brijframework.com
